@@ -1,4 +1,4 @@
-# Accord-Sales-Analysis
+# Accord Hardware -Sales-Analysis
 Sales Insights Data Analysis Project
 # setup mysql on  local computer
 1. Configure  mysql on local computer 
